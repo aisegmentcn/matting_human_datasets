@@ -1,0 +1,2 @@
+# matting_human_datasets
+人像matting数据集，包含34427张图像和对应的matting结果图。

@@ -23,5 +23,6 @@ alpha = in_image[:,:,3]
 # 合作
 我们的目标是打造中国版remove.bg！  
 我们欢迎高校的图像语义分割、视频语义分割的研究者与我们开展合作，我们可以提供海量的数据和真实的客户需求。  
-我们的联系方式：  
+公司官网：www.aisegment.com ，可体验语义分割效果。
+算法总监的联系方式：  
 ![Image text](https://github.com/aisegmentcn/matting_human_datasets/blob/master/3.png)

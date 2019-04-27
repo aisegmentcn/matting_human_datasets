@@ -10,6 +10,7 @@ alpha = in_image[:,:,3]
 链接：https://pan.baidu.com/s/1R9PJJRT-KjSxh-2-3wCGxQ 
 提取码：dzsn 
 
+Another url: https://mega.nz/#F!Gh8CFAyb!e2ppUh-copP76GbE8IWAEQ
   
 # 数据集截图
   ![Image text](https://github.com/aisegmentcn/matting_human_datasets/blob/master/1.png)  

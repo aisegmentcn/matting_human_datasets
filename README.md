@@ -10,7 +10,7 @@ alpha = in_image[:,:,3]
 链接：https://pan.baidu.com/s/1R9PJJRT-KjSxh-2-3wCGxQ 
 提取码：dzsn 
 
-other url: 
+other url:  
 https://mega.nz/#F!Gh8CFAyb!e2ppUh-copP76GbE8IWAEQ  
 https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets/
   

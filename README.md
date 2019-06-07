@@ -11,7 +11,7 @@ alpha = in_image[:,:,3]
 提取码：dzsn 
 
 other url: 
-https://mega.nz/#F!Gh8CFAyb!e2ppUh-copP76GbE8IWAEQ
+https://mega.nz/#F!Gh8CFAyb!e2ppUh-copP76GbE8IWAEQ  
 https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets/
   
 # 数据集截图

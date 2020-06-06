@@ -20,7 +20,6 @@ https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets/
   ![Image text](https://github.com/aisegmentcn/matting_human_datasets/blob/master/2.png)
   
 # 更多数据
-我们与阿里云市场联合推出的人像分割开放接口拥有数百家客户，每天处理数十万张照片，积累了海量的数据。  
 如果您需要更多训练数据，请与我们联系。  
 
 # 合作

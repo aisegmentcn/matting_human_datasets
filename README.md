@@ -19,12 +19,12 @@ https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets/
   matting图：  
   ![Image text](https://github.com/aisegmentcn/matting_human_datasets/blob/master/2.png)
   
-# 更多数据
-如果您需要更多训练数据，请与我们联系。  
+# 视频分割演示（Video Segmentation Demo）
+https://github.com/aisegmentcn/matting_human_datasets/blob/master/Wonxdemo.apk  
 
 # 合作
-#### 我们的目标是打造中国版remove.bg！  
-#### 我们长期招募从事图像或视频语义分割的研究者，全职、兼职均可。  
+#### 我们的目标是影像AI编辑与增强方案的引领者！  
+#### 我们招募从事图像或视频语义分割的研究者、实习生，全职、兼职均可。  
 公司官网：www.aisegment.com ，可体验语义分割效果。  
 联系微信：  
 ![Image text](https://github.com/aisegmentcn/matting_human_datasets/blob/master/wx.jpg)

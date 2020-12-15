@@ -23,11 +23,10 @@ https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets/
 https://github.com/aisegmentcn/matting_human_datasets/blob/master/Wonxdemo.apk  
 
 # 手机端图片人像分割演示（Picture Portrait Segmentation Demo）
-https://github.com/aisegmentcn/matting_human_datasets/blob/master/wxhumanseg.apk  
+https://github.com/aisegmentcn/matting_human_datasets/blob/master/humanseg_demo.apk  
 
 # 合作
-#### 我们的目标是成为影像AI编辑与增强方案的引领者！  
-#### 我们招募从事图像或视频语义分割的研究者、实习生，全职、兼职均可。  
+#### 我们专注于图像语义分割和实例分割领域，长期招募实习生，全职、兼职、远程均可。  
 公司官网：www.aisegment.com ，可体验语义分割效果。  
 联系微信：  
 ![Image text](https://github.com/aisegmentcn/matting_human_datasets/blob/master/wx.jpg)

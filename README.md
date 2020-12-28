@@ -27,6 +27,6 @@ https://github.com/aisegmentcn/matting_human_datasets/blob/master/humanseg_demo.
 
 # 合作
 #### 我们专注于图像语义分割和实例分割领域，长期招募实习生，全职、兼职、远程均可。  
-公司官网：www.aisegment.com ，可体验语义分割效果。  
+公司官网：www.aisegment.cn ，可体验语义分割效果。  
 联系微信：  
 ![Image text](https://github.com/aisegmentcn/matting_human_datasets/blob/master/wx.jpg)

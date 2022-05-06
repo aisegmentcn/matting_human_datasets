@@ -20,11 +20,8 @@ https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets/
   matting图：  
   ![Image text](https://github.com/aisegmentcn/matting_human_datasets/blob/master/2.png)
   
-# 手机端视频人像分割演示（Video Portrait Segmentation Demo）
-[点击下载](https://test-down-1251830310.cos.ap-shanghai.myqcloud.com/demo/wxvideoseg.apk)  
-
-# 手机端图片人像分割演示（Picture Portrait Segmentation Demo）
-[点击下载](https://test-down-1251830310.cos.ap-shanghai.myqcloud.com/demo/humanseg_demo.apk)  
+# [视频人像分割与抠图SDK，含免费版](https://github.com/aisegmentcn/human-matting-sdk)
+[点击了解](https://github.com/aisegmentcn/human-matting-sdk)  
 
 # 合作
 #### 我们专注于图像语义分割和实例分割领域，长期招募实习生，全职、兼职、远程均可。  
